@@ -4,8 +4,6 @@ Copyright (c) 2017, Michael G. Harvey
 All rights reserved.
 See the License.txt file for more information.
 
-Code used for simulating and analyzing the data in Moreira et al (in press) are included in the following directories: ./power/ & ./FDR/
+Code used for simulating and analyzing the data in Moreira et al (in press) are included @ ./power/ & ./FDR/
 
-ES-sim-GLM for single regression can be found in essim_glm.R
-
-ES-sim-GLM for multiple regression can be found in essim_glm_multiple.R
+For the relevant function ES-sim-GLM, use essim_glm.R for single regression and essim_glm_multiple.R for multiple regression.
